@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Annual Income (k$),Spending Score (1-100),Occupation,Education,Marital Status,Online Purchase Frequency,Preferred Shopping Mode,Loyalty Program Member
+1,35,Female,65,92,Artist,High School,Divorced,Daily,Both,No
+2,54,Male,33,13,Doctor,High School,Single,Monthly,In-Store,Yes
+3,42,Female,88,44,Student,High School,Divorced,Monthly,In-Store,No
+4,61,Male,57,18,Doctor,High School,Divorced,Weekly,Both,No
+5,25,Male,89,53,Student,Masters,Divorced,Rarely,Both,No
+6,29,Male,28,16,Lawyer,Masters,Divorced,Monthly,Both,No
+7,60,Male,60,57,Doctor,Masters,Divorced,Daily,In-Store,No
+8,47,Male,86,48,Designer,PhD,Single,Weekly,In-Store,No
+9,25,Female,85,79,Designer,Masters,Single,Weekly,Online,Yes
+10,26,Male,72,30,Designer,Bachelor,Single,Monthly,Online,Yes
+11,62,Female,62,43,Student,High School,Divorced,Rarely,Online,No
+12,39,Male,81,59,Artist,Masters,Divorced,Rarely,Online,Yes
+13,37,Female,23,72,Engineer,High School,Married,Rarely,In-Store,No
+14,54,Female,52,87,Doctor,Masters,Married,Rarely,In-Store,No
+15,42,Female,11,44,Student,PhD,Married,Monthly,Online,Yes
+16,45,Female,49,56,Student,PhD,Single,Daily,In-Store,No
+17,19,Male,65,26,Student,Masters,Single,Weekly,In-Store,No
+18,28,Male,37,82,Artist,PhD,Married,Daily,Online,Yes
+19,37,Male,99,87,Manager,High School,Married,Rarely,In-Store,No
+20,23,Female,49,61,Doctor,High School,Married,Weekly,In-Store,Yes
+21,56,Female,79,100,Artist,PhD,Divorced,Rarely,In-Store,No
+22,31,Male,61,28,Student,PhD,Single,Monthly,In-Store,Yes
+23,33,Male,71,76,Engineer,PhD,Married,Rarely,Both,No
+24,32,Male,65,10,Manager,PhD,Divorced,Weekly,Online,No
+25,57,Male,26,50,Doctor,High School,Divorced,Daily,Online,No
+26,45,Male,74,14,Artist,High School,Single,Weekly,In-Store,Yes
+27,32,Female,97,75,Doctor,Bachelor,Married,Rarely,In-Store,Yes
+28,67,Female,37,73,Lawyer,Bachelor,Divorced,Monthly,Both,Yes
+29,24,Female,96,46,Artist,PhD,Divorced,Monthly,Both,No
+30,47,Female,42,82,Artist,PhD,Single,Monthly,In-Store,Yes
+31,54,Male,14,52,Lawyer,High School,Single,Rarely,In-Store,Yes
+32,51,Female,17,94,Lawyer,Masters,Married,Monthly,In-Store,Yes
+33,67,Female,15,59,Lawyer,PhD,Married,Weekly,Online,Yes
+34,44,Male,77,50,Student,PhD,Divorced,Daily,Both,No
+35,62,Male,46,86,Engineer,PhD,Married,Monthly,Both,Yes
+36,65,Male,48,3,Artist,High School,Single,Monthly,Online,No
+37,49,Female,17,17,Engineer,Bachelor,Single,Weekly,In-Store,No
+38,58,Female,94,7,Doctor,Masters,Single,Rarely,In-Store,No
+39,36,Male,73,78,Manager,Masters,Single,Weekly,Both,No
+40,40,Male,78,98,Student,PhD,Married,Rarely,Both,Yes
+41,19,Male,91,48,Manager,High School,Single,Rarely,In-Store,Yes
+42,22,Male,85,17,Artist,High School,Divorced,Monthly,Online,Yes
+43,45,Male,50,95,Engineer,Bachelor,Single,Weekly,Both,Yes
+44,57,Female,18,15,Artist,Masters,Single,Rarely,Both,No
+45,33,Male,92,40,Designer,Masters,Married,Rarely,In-Store,No
+46,37,Male,15,35,Student,PhD,Married,Rarely,In-Store,Yes
+47,31,Female,46,98,Manager,High School,Married,Daily,In-Store,No
+48,34,Male,62,93,Manager,PhD,Divorced,Daily,Both,No
+49,58,Male,85,78,Artist,PhD,Married,Daily,Both,Yes
+50,31,Male,65,41,Doctor,High School,Single,Daily,Both,Yes
+51,35,Male,13,48,Student,Masters,Single,Daily,Both,Yes
+52,27,Female,98,45,Manager,PhD,Divorced,Monthly,Online,Yes
+53,42,Female,25,41,Artist,Masters,Married,Weekly,In-Store,Yes
+54,48,Male,19,3,Designer,Masters,Married,Rarely,Online,Yes
+55,28,Male,80,91,Engineer,High School,Single,Rarely,Both,Yes
+56,44,Female,77,81,Engineer,Masters,Married,Rarely,Online,Yes
+57,67,Female,58,60,Lawyer,High School,Married,Weekly,Both,Yes
+58,49,Female,26,65,Artist,Masters,Single,Weekly,In-Store,Yes
+59,42,Male,25,73,Lawyer,Bachelor,Divorced,Rarely,Both,Yes
+60,21,Female,12,81,Student,Bachelor,Married,Weekly,Online,No
+61,42,Male,53,76,Designer,High School,Divorced,Monthly,Both,Yes
+62,20,Female,41,75,Engineer,Bachelor,Married,Rarely,Both,Yes
+63,62,Female,68,83,Student,PhD,Married,Rarely,Online,Yes
+64,46,Female,61,60,Lawyer,High School,Single,Monthly,In-Store,No
+65,50,Female,42,55,Lawyer,Bachelor,Single,Monthly,In-Store,Yes
+66,18,Male,25,52,Doctor,High School,Single,Daily,Online,Yes
+67,50,Male,68,4,Manager,Masters,Married,Rarely,Both,Yes
+68,28,Female,30,24,Lawyer,Bachelor,Single,Rarely,Online,No
+69,33,Male,62,51,Engineer,High School,Single,Daily,Both,No
+70,22,Male,50,56,Student,High School,Divorced,Daily,In-Store,Yes
+71,48,Male,93,8,Lawyer,PhD,Single,Daily,Both,Yes
+72,31,Female,63,83,Doctor,Masters,Divorced,Monthly,Online,No
+73,59,Male,37,37,Artist,High School,Married,Daily,Online,Yes
+74,36,Male,37,55,Student,Bachelor,Divorced,Daily,Both,No
+75,24,Female,81,37,Doctor,High School,Single,Weekly,Both,No
+76,53,Male,36,63,Engineer,High School,Single,Monthly,Both,No
+77,62,Male,43,62,Manager,Bachelor,Divorced,Weekly,Online,No
+78,50,Female,78,60,Student,PhD,Divorced,Rarely,In-Store,No
+79,35,Female,49,21,Designer,Masters,Married,Daily,Online,No
+80,18,Male,42,85,Manager,Masters,Married,Daily,In-Store,No
+81,56,Male,42,62,Student,PhD,Single,Daily,Online,No
+82,23,Male,42,28,Artist,PhD,Divorced,Weekly,Both,No
+83,67,Male,63,90,Designer,PhD,Divorced,Rarely,Both,No
+84,45,Female,60,81,Designer,Masters,Divorced,Monthly,Both,Yes
+85,39,Male,98,23,Student,PhD,Single,Daily,Online,No
+86,34,Male,44,44,Engineer,High School,Divorced,Weekly,Online,Yes
+87,32,Female,28,6,Lawyer,Masters,Single,Rarely,In-Store,No
+88,33,Male,48,83,Doctor,PhD,Divorced,Daily,In-Store,No
+89,59,Male,75,62,Manager,Bachelor,Single,Weekly,Both,No
+90,54,Female,60,65,Manager,Masters,Married,Daily,Online,Yes
+91,47,Female,33,34,Doctor,PhD,Married,Rarely,Both,Yes
+92,68,Male,13,90,Student,Masters,Divorced,Rarely,Both,Yes
+93,22,Male,36,29,Manager,PhD,Married,Rarely,In-Store,No
+94,36,Male,59,9,Student,High School,Divorced,Rarely,Both,No
+95,34,Male,24,90,Doctor,PhD,Divorced,Rarely,Online,Yes
+96,66,Male,68,22,Doctor,Masters,Single,Monthly,In-Store,No
+97,61,Female,64,41,Lawyer,Bachelor,Married,Rarely,In-Store,Yes
+98,49,Male,55,32,Doctor,Bachelor,Single,Weekly,In-Store,Yes
+99,61,Female,16,24,Designer,High School,Divorced,Daily,In-Store,Yes
+100,57,Male,88,93,Engineer,High School,Married,Weekly,Online,No
+101,26,Male,68,64,Doctor,Bachelor,Divorced,Monthly,In-Store,No
+102,50,Female,12,51,Manager,Masters,Married,Weekly,Both,Yes
+103,38,Female,46,81,Student,Masters,Divorced,Weekly,Online,No
+104,25,Female,11,18,Doctor,High School,Divorced,Rarely,Online,Yes
+105,64,Female,72,64,Manager,Masters,Divorced,Daily,Both,No
+106,60,Female,33,59,Doctor,PhD,Single,Monthly,Online,No
+107,56,Male,86,19,Manager,PhD,Single,Monthly,Online,Yes
+108,23,Female,45,60,Lawyer,High School,Single,Daily,Online,No
+109,47,Female,57,88,Student,Masters,Married,Daily,Both,No
+110,57,Female,19,76,Doctor,Masters,Married,Weekly,Both,Yes
+111,38,Female,84,58,Doctor,High School,Divorced,Weekly,In-Store,No
+112,45,Female,90,15,Lawyer,Masters,Married,Rarely,Online,No
+113,26,Female,20,12,Designer,Masters,Single,Weekly,Both,No
+114,23,Female,51,39,Lawyer,Masters,Divorced,Rarely,In-Store,No
+115,40,Female,94,87,Artist,High School,Divorced,Monthly,In-Store,No
+116,18,Female,93,98,Student,Bachelor,Married,Rarely,Online,Yes
+117,48,Female,76,51,Doctor,High School,Divorced,Monthly,In-Store,No
+118,31,Female,37,22,Manager,High School,Single,Weekly,Online,Yes
+119,23,Female,53,36,Designer,Bachelor,Married,Monthly,In-Store,No
+120,45,Male,84,63,Lawyer,High School,Married,Daily,In-Store,Yes
+121,27,Female,73,45,Lawyer,Masters,Divorced,Monthly,In-Store,No
+122,59,Female,92,7,Designer,Masters,Single,Monthly,Online,No
+123,32,Female,44,75,Artist,PhD,Divorced,Rarely,In-Store,No
+124,32,Female,11,47,Doctor,Masters,Divorced,Monthly,In-Store,Yes
+125,59,Male,25,41,Lawyer,High School,Married,Monthly,Online,No
+126,48,Female,21,62,Student,PhD,Single,Rarely,Both,Yes
+127,47,Female,73,17,Lawyer,Bachelor,Divorced,Weekly,In-Store,Yes
+128,60,Male,81,98,Lawyer,Masters,Single,Rarely,Both,Yes
+129,67,Male,52,53,Doctor,PhD,Married,Rarely,Online,Yes
+130,66,Male,51,22,Manager,Bachelor,Single,Monthly,Both,Yes
+131,50,Female,45,63,Lawyer,PhD,Single,Rarely,Online,Yes
+132,51,Male,89,80,Student,Masters,Divorced,Weekly,In-Store,Yes
+133,61,Female,58,73,Lawyer,Masters,Divorced,Rarely,In-Store,No
+134,30,Male,16,34,Student,High School,Single,Rarely,In-Store,No
+135,19,Female,56,35,Student,PhD,Divorced,Daily,Online,Yes
+136,31,Male,44,60,Artist,High School,Single,Rarely,Both,No
+137,62,Male,39,82,Doctor,Masters,Divorced,Monthly,Online,No
+138,30,Female,42,87,Lawyer,PhD,Divorced,Daily,Online,Yes
+139,59,Male,19,62,Artist,PhD,Divorced,Weekly,In-Store,No
+140,28,Female,32,57,Doctor,High School,Single,Daily,Both,No
+141,23,Female,37,8,Manager,PhD,Married,Rarely,Online,No
+142,50,Male,43,28,Doctor,Masters,Married,Monthly,Both,No
+143,41,Female,97,5,Artist,Bachelor,Married,Rarely,In-Store,No
+144,52,Female,42,31,Engineer,High School,Divorced,Daily,Online,No
+145,20,Male,73,31,Artist,PhD,Single,Daily,Online,Yes
+146,36,Female,85,35,Artist,High School,Single,Monthly,Both,No
+147,43,Male,92,15,Doctor,Masters,Married,Daily,In-Store,Yes
+148,42,Male,71,11,Doctor,Bachelor,Single,Monthly,Online,Yes
+149,33,Male,84,30,Engineer,High School,Single,Monthly,Online,No
+150,48,Male,14,5,Manager,High School,Single,Weekly,Online,No
+151,32,Male,81,31,Lawyer,PhD,Married,Rarely,In-Store,Yes
+152,55,Male,24,87,Lawyer,Masters,Divorced,Monthly,In-Store,Yes
+153,54,Male,68,5,Designer,High School,Divorced,Daily,Both,Yes
+154,18,Male,74,77,Artist,Masters,Single,Monthly,Both,No
+155,37,Male,88,1,Doctor,Bachelor,Single,Monthly,Both,No
+156,48,Male,27,67,Doctor,PhD,Divorced,Weekly,In-Store,Yes
+157,61,Male,92,73,Designer,PhD,Single,Daily,Online,Yes
+158,68,Male,58,47,Manager,High School,Married,Rarely,Both,No
+159,46,Male,33,42,Lawyer,PhD,Married,Rarely,In-Store,No
+160,57,Male,55,91,Designer,Masters,Married,Monthly,Both,No
+161,37,Female,30,97,Artist,Bachelor,Divorced,Rarely,Both,Yes
+162,25,Male,91,77,Manager,Masters,Married,Monthly,In-Store,Yes
+163,69,Female,54,56,Artist,High School,Single,Monthly,Both,No
+164,28,Male,59,22,Designer,Bachelor,Single,Daily,Both,Yes
+165,29,Male,74,43,Lawyer,High School,Divorced,Rarely,Online,No
+166,43,Male,32,82,Manager,PhD,Single,Weekly,Both,Yes
+167,22,Female,65,88,Manager,PhD,Married,Monthly,Online,Yes
+168,23,Male,33,62,Student,High School,Single,Daily,Both,Yes
+169,64,Male,41,60,Student,High School,Single,Monthly,In-Store,Yes
+170,64,Male,61,72,Designer,Masters,Single,Monthly,In-Store,Yes
+171,24,Male,79,18,Doctor,High School,Divorced,Monthly,Both,Yes
+172,19,Female,44,67,Doctor,Bachelor,Divorced,Weekly,Online,Yes
+173,29,Male,90,89,Manager,Bachelor,Single,Weekly,Both,No
+174,19,Male,85,50,Manager,Bachelor,Single,Monthly,Both,Yes
+175,38,Female,47,43,Lawyer,PhD,Divorced,Rarely,In-Store,Yes
+176,66,Male,23,67,Student,Bachelor,Married,Weekly,Both,No
+177,32,Female,83,15,Manager,Bachelor,Married,Monthly,In-Store,No
+178,27,Male,64,72,Lawyer,High School,Divorced,Rarely,Online,Yes
+179,53,Male,44,9,Lawyer,Masters,Married,Rarely,In-Store,No
+180,43,Male,87,61,Doctor,PhD,Married,Rarely,In-Store,Yes
+181,62,Female,15,84,Student,Bachelor,Married,Weekly,Online,Yes
+182,55,Female,84,26,Doctor,Masters,Single,Weekly,Online,No
+183,46,Female,89,94,Artist,High School,Married,Monthly,Online,Yes
+184,35,Female,17,14,Engineer,Masters,Single,Rarely,Online,No
+185,29,Male,34,49,Lawyer,Bachelor,Divorced,Rarely,Online,No
+186,28,Male,64,74,Artist,Masters,Single,Monthly,Both,No
+187,63,Male,45,72,Engineer,Masters,Single,Rarely,In-Store,No
+188,20,Male,84,1,Doctor,Masters,Divorced,Weekly,In-Store,No
+189,65,Female,97,82,Doctor,Bachelor,Single,Monthly,Both,Yes
+190,19,Male,57,97,Student,PhD,Single,Weekly,In-Store,Yes
+191,38,Female,83,19,Artist,PhD,Single,Daily,Online,Yes
+192,36,Male,16,18,Manager,PhD,Single,Rarely,In-Store,Yes
+193,41,Female,14,90,Engineer,High School,Single,Rarely,Both,Yes
+194,56,Female,10,80,Doctor,Bachelor,Single,Monthly,In-Store,Yes
+195,53,Male,58,53,Lawyer,Masters,Single,Monthly,In-Store,No
+196,54,Male,42,23,Student,High School,Married,Rarely,Both,Yes
+197,48,Male,19,53,Artist,Bachelor,Married,Rarely,Both,Yes
+198,66,Male,87,82,Artist,High School,Single,Monthly,Online,Yes
+199,40,Male,93,97,Doctor,PhD,Divorced,Monthly,In-Store,Yes
+200,30,Male,62,4,Doctor,Masters,Single,Daily,Both,Yes
+201,44,Male,51,63,Lawyer,Bachelor,Married,Weekly,In-Store,Yes
+202,56,Male,11,58,Doctor,PhD,Single,Monthly,Both,No
+203,41,Male,63,49,Manager,Bachelor,Divorced,Monthly,In-Store,Yes
+204,35,Female,12,4,Artist,Masters,Single,Rarely,Online,Yes
+205,35,Female,96,75,Lawyer,PhD,Single,Monthly,Online,No
+206,50,Male,50,51,Student,High School,Divorced,Monthly,Online,Yes
+207,69,Female,37,74,Doctor,High School,Divorced,Rarely,In-Store,No
+208,64,Male,40,12,Lawyer,High School,Divorced,Monthly,In-Store,No
+209,20,Male,39,22,Manager,PhD,Married,Monthly,Online,No
+210,46,Male,76,29,Engineer,PhD,Single,Rarely,Online,Yes
+211,22,Male,60,52,Designer,Masters,Divorced,Rarely,Online,No
+212,48,Female,65,8,Engineer,Bachelor,Married,Weekly,Online,Yes
+213,52,Male,67,84,Lawyer,Bachelor,Single,Weekly,Online,No
+214,68,Female,55,22,Designer,Masters,Single,Rarely,Online,Yes
+215,50,Male,70,37,Lawyer,Bachelor,Divorced,Weekly,Both,No
+216,18,Male,15,79,Engineer,High School,Single,Monthly,Both,No
+217,33,Female,26,69,Designer,PhD,Single,Rarely,Both,Yes
+218,39,Male,80,7,Manager,Bachelor,Single,Monthly,Online,No
+219,53,Female,71,48,Artist,Bachelor,Married,Daily,In-Store,No
+220,68,Male,42,37,Designer,Masters,Single,Daily,Online,No
+221,69,Male,45,76,Artist,PhD,Single,Rarely,In-Store,Yes
+222,69,Male,47,42,Artist,Masters,Single,Rarely,Both,No
+223,20,Male,64,70,Lawyer,High School,Divorced,Rarely,Online,Yes
+224,22,Female,49,81,Designer,PhD,Divorced,Monthly,Both,No
+225,65,Male,71,28,Engineer,Masters,Single,Rarely,Both,Yes
+226,44,Male,24,7,Artist,Masters,Divorced,Weekly,Online,Yes
+227,31,Male,98,72,Engineer,Bachelor,Single,Weekly,Both,No
+228,68,Male,36,53,Student,Bachelor,Divorced,Monthly,Both,No
+229,67,Female,54,7,Engineer,PhD,Single,Weekly,In-Store,Yes
+230,56,Female,92,96,Doctor,High School,Married,Monthly,Both,Yes
+231,41,Female,66,77,Engineer,Masters,Married,Rarely,Online,Yes
+232,54,Male,63,46,Manager,Bachelor,Single,Daily,Online,No
+233,53,Male,37,74,Designer,Masters,Single,Daily,Online,Yes
+234,55,Male,26,12,Student,High School,Married,Rarely,Both,No
+235,59,Male,87,86,Student,Masters,Married,Weekly,Both,No
+236,55,Male,13,100,Student,PhD,Divorced,Monthly,Online,No
+237,65,Female,91,69,Lawyer,Masters,Divorced,Rarely,Both,Yes
+238,64,Male,53,13,Student,High School,Married,Daily,Both,No
+239,38,Male,53,67,Designer,Masters,Married,Rarely,Both,No
+240,38,Female,59,44,Lawyer,High School,Divorced,Rarely,Both,No
+241,38,Female,13,95,Artist,Masters,Married,Monthly,Online,Yes
+242,46,Female,68,55,Doctor,Bachelor,Divorced,Monthly,Online,Yes
+243,39,Female,59,51,Student,Bachelor,Divorced,Rarely,Both,No
+244,30,Female,24,31,Artist,PhD,Married,Rarely,Both,Yes
+245,50,Female,68,7,Lawyer,High School,Single,Weekly,In-Store,Yes
+246,69,Female,16,94,Lawyer,PhD,Married,Rarely,Online,No
+247,63,Male,72,90,Manager,PhD,Single,Daily,In-Store,No
+248,47,Female,28,71,Manager,PhD,Single,Monthly,Both,No
+249,62,Male,90,26,Lawyer,PhD,Divorced,Weekly,Online,No
+250,49,Male,55,18,Student,Masters,Married,Monthly,In-Store,No
+251,39,Male,48,53,Lawyer,PhD,Single,Rarely,In-Store,No
+252,46,Female,91,86,Engineer,Bachelor,Single,Daily,In-Store,No
+253,18,Female,88,43,Student,High School,Divorced,Rarely,Both,Yes
+254,43,Female,94,1,Doctor,High School,Single,Monthly,In-Store,Yes
+255,68,Female,84,5,Lawyer,High School,Married,Rarely,In-Store,No
+256,46,Male,40,60,Student,PhD,Divorced,Rarely,Online,Yes
+257,55,Female,60,85,Designer,Bachelor,Single,Rarely,Online,Yes
+258,20,Female,96,100,Student,Masters,Divorced,Weekly,Both,Yes
+259,32,Female,48,77,Doctor,Masters,Single,Weekly,Online,No
+260,68,Male,22,30,Artist,Bachelor,Married,Daily,Both,No
+261,37,Male,64,37,Student,High School,Married,Rarely,Both,Yes
+262,40,Female,87,5,Manager,Masters,Single,Monthly,Both,No
+263,29,Female,27,92,Student,PhD,Single,Monthly,Both,No
+264,66,Female,28,49,Engineer,High School,Single,Daily,In-Store,No
+265,62,Male,36,20,Artist,Masters,Divorced,Weekly,Both,Yes
+266,28,Male,92,28,Lawyer,High School,Single,Rarely,In-Store,Yes
+267,67,Male,89,32,Manager,Masters,Single,Weekly,Online,No
+268,47,Male,25,5,Designer,High School,Single,Weekly,Both,Yes
+269,62,Male,10,39,Manager,Bachelor,Married,Weekly,Both,No
+270,68,Male,57,39,Student,Masters,Single,Rarely,Online,No
+271,65,Male,72,14,Engineer,High School,Married,Daily,In-Store,Yes
+272,21,Male,17,7,Manager,Masters,Divorced,Daily,Online,Yes
+273,67,Female,30,61,Engineer,PhD,Divorced,Monthly,Online,Yes
+274,51,Male,97,38,Lawyer,PhD,Married,Daily,Online,No
+275,18,Female,65,44,Lawyer,Bachelor,Divorced,Daily,Both,Yes
+276,44,Male,66,63,Artist,Bachelor,Married,Monthly,Both,Yes
+277,47,Female,24,81,Designer,High School,Married,Monthly,Online,No
+278,40,Male,27,47,Manager,Masters,Single,Rarely,In-Store,Yes
+279,34,Male,46,58,Lawyer,High School,Married,Daily,Both,No
+280,30,Female,13,30,Manager,Masters,Divorced,Weekly,Online,Yes
+281,33,Female,15,97,Lawyer,High School,Divorced,Weekly,In-Store,No
+282,47,Male,34,25,Lawyer,High School,Married,Rarely,Both,Yes
+283,62,Male,97,62,Artist,Masters,Married,Monthly,In-Store,No
+284,21,Female,68,57,Lawyer,Bachelor,Divorced,Monthly,In-Store,Yes
+285,58,Male,37,49,Student,Bachelor,Married,Monthly,Both,Yes
+286,39,Male,26,62,Designer,PhD,Married,Rarely,Online,No
+287,25,Female,75,71,Student,Bachelor,Married,Weekly,Online,Yes
+288,19,Male,64,31,Lawyer,Masters,Married,Monthly,In-Store,No
+289,61,Male,42,25,Student,Bachelor,Divorced,Weekly,In-Store,No
+290,31,Male,75,73,Artist,Bachelor,Divorced,Daily,Both,No
+291,46,Male,60,66,Engineer,Masters,Divorced,Weekly,Both,Yes
+292,53,Male,75,12,Engineer,Masters,Single,Rarely,Both,Yes
+293,62,Male,97,8,Artist,Bachelor,Divorced,Daily,In-Store,No
+294,61,Female,57,98,Engineer,Bachelor,Divorced,Weekly,Both,No
+295,68,Male,16,8,Manager,Masters,Married,Monthly,In-Store,No
+296,56,Male,64,11,Manager,PhD,Single,Weekly,In-Store,Yes
+297,53,Female,79,57,Manager,PhD,Divorced,Monthly,In-Store,No
+298,20,Male,90,65,Lawyer,Bachelor,Single,Rarely,Online,No
+299,54,Female,39,36,Student,Bachelor,Divorced,Rarely,Online,Yes
+300,37,Female,39,55,Lawyer,High School,Single,Weekly,Both,Yes
+301,31,Female,99,57,Manager,PhD,Divorced,Weekly,In-Store,Yes
+302,69,Female,73,43,Designer,Masters,Single,Monthly,Both,Yes
+303,25,Male,16,35,Designer,Bachelor,Single,Monthly,Online,No
+304,24,Female,95,11,Student,PhD,Divorced,Daily,Both,Yes
+305,22,Female,30,80,Designer,Masters,Married,Weekly,Online,Yes
+306,35,Male,95,98,Engineer,PhD,Divorced,Weekly,Online,No
+307,36,Female,83,35,Manager,Bachelor,Single,Daily,Online,Yes
+308,60,Female,36,81,Student,Bachelor,Divorced,Monthly,In-Store,No
+309,37,Female,15,1,Manager,Bachelor,Divorced,Daily,Online,No
+310,57,Female,39,99,Student,Bachelor,Divorced,Daily,Both,Yes
+311,30,Female,25,83,Doctor,PhD,Married,Rarely,Online,No
+312,52,Female,92,79,Artist,High School,Divorced,Rarely,Online,Yes
+313,69,Female,30,33,Doctor,High School,Divorced,Daily,In-Store,Yes
+314,30,Female,31,24,Lawyer,Bachelor,Married,Daily,Both,Yes
+315,36,Female,59,73,Designer,Masters,Single,Weekly,Both,No
+316,30,Male,34,87,Engineer,PhD,Divorced,Monthly,In-Store,Yes
+317,42,Male,86,73,Engineer,Bachelor,Divorced,Weekly,In-Store,No
+318,18,Female,47,47,Manager,Masters,Single,Weekly,Both,No
+319,28,Female,51,33,Lawyer,Bachelor,Divorced,Rarely,Both,No
+320,18,Male,60,74,Student,PhD,Married,Monthly,Both,Yes
+321,59,Female,48,4,Artist,High School,Married,Monthly,Online,Yes
+322,54,Male,26,52,Manager,PhD,Married,Daily,Both,Yes
+323,38,Female,11,85,Artist,Masters,Single,Rarely,Online,Yes
+324,31,Female,94,92,Manager,Bachelor,Single,Rarely,Online,Yes
+325,19,Female,24,21,Artist,PhD,Married,Weekly,Both,Yes
+326,21,Female,74,53,Designer,High School,Divorced,Rarely,Online,No
+327,36,Male,86,4,Engineer,Masters,Single,Monthly,Online,No
+328,27,Female,70,5,Manager,High School,Divorced,Daily,Online,No
+329,41,Female,97,11,Doctor,Bachelor,Married,Weekly,Both,No
+330,28,Male,63,73,Designer,Bachelor,Divorced,Weekly,Online,Yes
+331,30,Male,29,11,Lawyer,PhD,Married,Monthly,In-Store,Yes
+332,39,Female,56,48,Engineer,Bachelor,Single,Weekly,Both,Yes
+333,19,Male,22,59,Artist,PhD,Single,Weekly,Both,Yes
+334,56,Male,67,58,Artist,PhD,Married,Rarely,In-Store,No
+335,61,Female,59,35,Designer,Masters,Married,Monthly,Online,No
+336,20,Female,62,45,Artist,High School,Single,Rarely,Both,Yes
+337,60,Male,94,91,Doctor,Bachelor,Divorced,Weekly,In-Store,No
+338,40,Male,62,84,Artist,High School,Divorced,Weekly,Online,Yes
+339,22,Female,16,86,Lawyer,Masters,Divorced,Monthly,Online,Yes
+340,43,Male,14,6,Artist,PhD,Married,Daily,In-Store,Yes
+341,41,Male,98,31,Engineer,PhD,Single,Weekly,In-Store,Yes
+342,21,Male,70,73,Manager,High School,Married,Rarely,In-Store,Yes
+343,59,Male,97,19,Student,PhD,Married,Monthly,In-Store,No
+344,42,Male,57,92,Engineer,Bachelor,Single,Rarely,Both,Yes
+345,61,Female,48,78,Engineer,Masters,Married,Rarely,Both,Yes
+346,68,Male,56,28,Manager,Masters,Divorced,Daily,Both,Yes
+347,33,Female,19,73,Manager,Masters,Single,Weekly,Both,Yes
+348,41,Female,80,48,Manager,PhD,Divorced,Monthly,Online,Yes
+349,32,Female,75,97,Manager,PhD,Divorced,Rarely,Online,Yes
+350,54,Male,49,9,Engineer,Masters,Married,Weekly,Both,No
+351,31,Male,90,55,Student,Bachelor,Married,Daily,In-Store,Yes
+352,55,Male,39,54,Engineer,PhD,Married,Rarely,Online,No
+353,58,Female,51,69,Manager,PhD,Married,Weekly,Both,No
+354,62,Male,61,36,Lawyer,Masters,Single,Weekly,In-Store,Yes
+355,37,Male,89,37,Designer,High School,Married,Monthly,In-Store,Yes
+356,51,Male,89,90,Engineer,High School,Divorced,Rarely,Online,Yes
+357,51,Female,72,71,Manager,PhD,Married,Rarely,Both,Yes
+358,31,Male,95,80,Engineer,High School,Divorced,Weekly,Both,Yes
+359,47,Female,14,24,Manager,PhD,Married,Monthly,Online,No
+360,28,Female,29,19,Student,PhD,Single,Daily,In-Store,No
+361,50,Female,39,4,Student,Bachelor,Single,Rarely,Online,Yes
+362,45,Female,26,84,Lawyer,PhD,Divorced,Daily,Both,No
+363,32,Female,92,83,Manager,PhD,Divorced,Daily,Online,No
+364,66,Female,97,50,Student,PhD,Divorced,Weekly,Online,No
+365,48,Male,80,87,Manager,Masters,Single,Weekly,In-Store,No
+366,58,Female,69,25,Doctor,PhD,Single,Daily,Online,No
+367,56,Male,90,49,Designer,PhD,Married,Rarely,Both,Yes
+368,65,Female,96,73,Doctor,Masters,Divorced,Monthly,In-Store,Yes
+369,19,Female,12,87,Artist,PhD,Divorced,Monthly,Online,No
+370,43,Female,74,76,Designer,Masters,Divorced,Daily,In-Store,No
+371,47,Female,10,39,Lawyer,Masters,Married,Daily,Online,Yes
+372,31,Female,15,37,Student,Bachelor,Divorced,Weekly,Online,Yes
+373,55,Male,69,74,Engineer,PhD,Single,Monthly,Both,Yes
+374,64,Female,11,46,Engineer,Masters,Divorced,Weekly,In-Store,No
+375,49,Male,86,54,Designer,High School,Married,Daily,Both,Yes
+376,50,Female,32,49,Lawyer,PhD,Married,Rarely,Online,Yes
+377,64,Male,51,9,Artist,Bachelor,Single,Daily,Online,Yes
+378,30,Male,54,95,Student,Masters,Married,Monthly,Online,No
+379,37,Male,60,62,Artist,Bachelor,Married,Rarely,In-Store,Yes
+380,56,Female,92,69,Artist,High School,Divorced,Rarely,In-Store,No
+381,60,Female,42,64,Doctor,Bachelor,Single,Weekly,Online,No
+382,65,Female,61,24,Artist,High School,Married,Weekly,Online,Yes
+383,67,Female,26,41,Lawyer,High School,Married,Weekly,Online,No
+384,33,Male,33,76,Engineer,High School,Divorced,Monthly,Both,Yes
+385,29,Female,72,6,Engineer,Bachelor,Single,Monthly,Both,No
+386,52,Female,64,21,Student,PhD,Married,Daily,Online,No
+387,27,Female,34,94,Lawyer,Masters,Single,Weekly,In-Store,Yes
+388,36,Female,66,26,Designer,High School,Married,Rarely,Both,No
+389,46,Female,29,33,Doctor,Masters,Divorced,Rarely,Both,No
+390,20,Male,72,11,Engineer,Bachelor,Single,Monthly,In-Store,No
+391,50,Female,85,87,Doctor,Bachelor,Divorced,Rarely,Both,Yes
+392,31,Female,21,78,Lawyer,High School,Single,Rarely,Both,No
+393,46,Female,75,80,Lawyer,High School,Married,Rarely,In-Store,Yes
+394,42,Female,29,85,Student,Masters,Single,Weekly,Online,No
+395,31,Female,23,78,Artist,Bachelor,Divorced,Weekly,Both,Yes
+396,24,Male,52,6,Student,PhD,Single,Rarely,Online,Yes
+397,47,Female,44,41,Manager,Bachelor,Single,Monthly,Both,Yes
+398,30,Female,54,59,Engineer,PhD,Divorced,Rarely,Both,No
+399,40,Female,98,37,Lawyer,PhD,Divorced,Monthly,Online,No
+400,44,Male,24,46,Doctor,Masters,Married,Rarely,Both,No
+401,48,Female,69,73,Designer,Bachelor,Single,Monthly,Both,No
+402,57,Male,71,4,Lawyer,High School,Single,Weekly,Both,Yes
+403,42,Female,19,14,Manager,High School,Divorced,Weekly,Online,Yes
+404,33,Female,22,7,Designer,Masters,Single,Rarely,In-Store,Yes
+405,66,Male,18,46,Lawyer,High School,Married,Monthly,Online,No
+406,30,Female,99,65,Student,Masters,Single,Monthly,In-Store,No
+407,20,Male,68,57,Engineer,Bachelor,Married,Weekly,Both,No
+408,63,Female,44,54,Artist,High School,Married,Monthly,Both,Yes
+409,24,Male,25,44,Designer,Bachelor,Divorced,Daily,Online,Yes
+410,29,Female,92,13,Doctor,Bachelor,Divorced,Rarely,In-Store,Yes
+411,41,Male,12,63,Engineer,High School,Single,Weekly,In-Store,No
+412,26,Female,35,89,Engineer,PhD,Single,Monthly,Online,No
+413,36,Female,18,3,Artist,High School,Divorced,Weekly,Both,Yes
+414,37,Male,22,1,Lawyer,High School,Divorced,Monthly,In-Store,No
+415,50,Female,49,58,Student,PhD,Single,Rarely,Both,No
+416,42,Male,82,94,Lawyer,Masters,Divorced,Rarely,Both,Yes
+417,56,Female,73,62,Manager,Masters,Married,Weekly,In-Store,Yes
+418,37,Female,80,67,Designer,Bachelor,Divorced,Monthly,In-Store,No
+419,38,Male,13,55,Lawyer,Bachelor,Married,Rarely,Online,Yes
+420,67,Female,94,30,Engineer,PhD,Divorced,Monthly,In-Store,Yes
+421,46,Female,74,89,Artist,Masters,Single,Daily,Both,No
+422,62,Male,76,48,Lawyer,High School,Married,Daily,In-Store,Yes
+423,27,Female,54,73,Doctor,PhD,Married,Monthly,In-Store,No
+424,22,Female,75,82,Student,PhD,Married,Monthly,In-Store,Yes
+425,43,Male,50,73,Engineer,Bachelor,Married,Weekly,Online,Yes
+426,19,Female,36,53,Lawyer,Masters,Married,Weekly,Online,Yes
+427,41,Female,34,88,Designer,PhD,Divorced,Daily,In-Store,Yes
+428,19,Male,30,12,Engineer,High School,Divorced,Weekly,Both,Yes
+429,44,Male,10,97,Doctor,High School,Divorced,Monthly,In-Store,No
+430,57,Female,94,92,Lawyer,High School,Married,Rarely,Both,No
+431,49,Male,11,35,Engineer,High School,Married,Daily,In-Store,Yes
+432,20,Female,72,91,Lawyer,PhD,Divorced,Rarely,Online,No
+433,34,Female,53,30,Designer,Bachelor,Single,Weekly,Online,No
+434,51,Female,82,42,Lawyer,Bachelor,Divorced,Weekly,In-Store,No
+435,37,Male,86,2,Doctor,High School,Single,Rarely,In-Store,Yes
+436,40,Female,58,53,Student,Masters,Divorced,Rarely,Both,Yes
+437,29,Male,76,9,Student,Bachelor,Divorced,Daily,Online,Yes
+438,32,Male,89,57,Doctor,Bachelor,Divorced,Monthly,Online,Yes
+439,48,Female,57,75,Student,Masters,Single,Daily,In-Store,Yes
+440,36,Male,11,40,Artist,PhD,Single,Monthly,In-Store,Yes
+441,37,Male,47,95,Lawyer,PhD,Divorced,Monthly,Both,No
+442,55,Female,31,4,Doctor,Bachelor,Single,Rarely,In-Store,No
+443,41,Male,64,89,Engineer,Bachelor,Single,Weekly,In-Store,Yes
+444,23,Male,83,31,Student,Masters,Single,Weekly,In-Store,Yes
+445,34,Male,51,37,Engineer,PhD,Married,Daily,In-Store,Yes
+446,22,Female,30,16,Designer,High School,Married,Monthly,In-Store,Yes
+447,61,Male,83,13,Designer,PhD,Married,Weekly,Both,Yes
+448,30,Female,55,98,Student,High School,Married,Daily,Online,No
+449,63,Female,59,100,Lawyer,Masters,Divorced,Daily,Both,Yes
+450,20,Male,92,17,Student,Bachelor,Single,Daily,In-Store,No
+451,33,Female,98,25,Student,High School,Married,Weekly,Online,Yes
+452,19,Female,32,85,Student,High School,Single,Weekly,Online,No
+453,43,Male,35,91,Manager,Masters,Married,Daily,In-Store,Yes
+454,54,Female,80,18,Artist,Bachelor,Single,Rarely,Online,Yes
+455,25,Male,36,53,Manager,PhD,Single,Monthly,Both,No
+456,50,Female,43,59,Student,High School,Single,Rarely,Both,Yes
+457,60,Male,27,16,Engineer,PhD,Single,Monthly,Online,No
+458,55,Male,26,12,Lawyer,Masters,Divorced,Rarely,Both,Yes
+459,39,Female,61,86,Lawyer,Bachelor,Single,Rarely,In-Store,No
+460,66,Male,25,67,Doctor,Masters,Single,Monthly,Both,No
+461,59,Female,54,54,Lawyer,PhD,Single,Weekly,Online,Yes
+462,50,Male,57,76,Doctor,Masters,Married,Rarely,Both,No
+463,29,Female,26,17,Engineer,PhD,Single,Daily,Both,No
+464,65,Male,11,62,Artist,PhD,Married,Monthly,In-Store,No
+465,56,Male,73,59,Doctor,High School,Divorced,Rarely,Online,No
+466,20,Female,87,42,Engineer,Masters,Married,Daily,Online,Yes
+467,21,Male,59,54,Designer,Masters,Divorced,Rarely,Both,Yes
+468,55,Female,46,93,Doctor,PhD,Single,Weekly,Both,No
+469,36,Female,21,69,Artist,PhD,Married,Monthly,Online,Yes
+470,61,Male,47,3,Doctor,Masters,Married,Weekly,In-Store,Yes
+471,55,Female,49,96,Artist,High School,Married,Daily,In-Store,Yes
+472,32,Female,88,87,Doctor,PhD,Single,Rarely,In-Store,Yes
+473,59,Female,21,54,Doctor,Bachelor,Divorced,Daily,In-Store,No
+474,21,Female,89,12,Engineer,PhD,Single,Monthly,Online,No
+475,31,Female,58,85,Manager,Bachelor,Divorced,Rarely,Both,Yes
+476,62,Male,21,69,Doctor,Masters,Married,Monthly,Both,No
+477,23,Male,60,33,Lawyer,High School,Single,Monthly,Both,Yes
+478,31,Male,71,13,Engineer,High School,Married,Weekly,In-Store,No
+479,36,Female,10,68,Student,Bachelor,Single,Monthly,Both,No
+480,29,Female,29,20,Designer,High School,Married,Rarely,In-Store,Yes
+481,58,Female,34,45,Doctor,PhD,Married,Rarely,Both,No
+482,21,Female,55,46,Engineer,High School,Divorced,Rarely,Both,No
+483,48,Female,72,7,Lawyer,Masters,Married,Monthly,In-Store,No
+484,28,Female,44,47,Engineer,High School,Married,Daily,Online,Yes
+485,30,Female,79,48,Manager,Bachelor,Divorced,Rarely,In-Store,No
+486,67,Male,48,47,Designer,Masters,Married,Daily,Both,Yes
+487,30,Female,14,31,Doctor,High School,Divorced,Rarely,Both,Yes
+488,23,Female,56,70,Artist,Bachelor,Married,Monthly,Online,No
+489,58,Male,86,74,Lawyer,PhD,Married,Rarely,Both,No
+490,53,Female,73,38,Lawyer,Masters,Divorced,Rarely,In-Store,No
+491,50,Male,89,63,Lawyer,Masters,Single,Rarely,Both,No
+492,41,Male,92,7,Designer,High School,Divorced,Monthly,Online,No
+493,47,Male,28,2,Manager,High School,Divorced,Weekly,Both,No
+494,54,Female,26,53,Artist,High School,Divorced,Weekly,In-Store,Yes
+495,31,Female,50,94,Engineer,PhD,Single,Rarely,Both,Yes
+496,31,Female,38,24,Designer,PhD,Divorced,Daily,Online,Yes
+497,24,Female,94,88,Designer,Masters,Single,Rarely,Both,Yes
+498,48,Male,11,56,Doctor,Bachelor,Divorced,Rarely,Online,No
+499,69,Male,16,10,Artist,High School,Single,Monthly,In-Store,No
+500,64,Male,83,89,Student,Masters,Married,Rarely,In-Store,No
+501,31,Female,17,96,Student,High School,Single,Daily,Both,Yes
+502,59,Female,52,8,Engineer,Bachelor,Divorced,Weekly,Online,Yes
+503,34,Male,55,31,Lawyer,Bachelor,Divorced,Rarely,Both,Yes
+504,21,Female,60,57,Doctor,Masters,Single,Weekly,In-Store,No
+505,67,Male,54,44,Engineer,PhD,Married,Monthly,In-Store,Yes
+506,49,Female,66,13,Lawyer,PhD,Married,Monthly,In-Store,No
+507,44,Male,33,59,Manager,Bachelor,Divorced,Rarely,Online,No
+508,65,Male,82,63,Engineer,PhD,Single,Rarely,Both,No
+509,55,Male,73,50,Lawyer,PhD,Single,Weekly,Online,Yes
+510,66,Female,50,57,Manager,Bachelor,Married,Rarely,Both,No
+511,38,Female,74,35,Student,Masters,Divorced,Daily,In-Store,Yes
+512,67,Male,48,23,Engineer,High School,Married,Rarely,In-Store,No
+513,21,Female,94,68,Designer,Masters,Married,Weekly,Both,Yes
+514,63,Male,73,1,Designer,Masters,Divorced,Weekly,Online,No
+515,68,Male,48,57,Student,PhD,Single,Monthly,Online,No
+516,18,Female,25,35,Artist,Bachelor,Married,Monthly,Both,No
+517,19,Female,41,25,Doctor,Masters,Married,Rarely,In-Store,No
+518,58,Female,70,19,Doctor,Bachelor,Single,Monthly,In-Store,No
+519,49,Male,12,99,Student,High School,Single,Daily,Both,No
+520,62,Male,14,84,Engineer,Bachelor,Divorced,Daily,Online,No
+521,35,Female,36,100,Doctor,PhD,Single,Monthly,Both,Yes
+522,54,Female,40,31,Doctor,Masters,Married,Weekly,Online,No
+523,40,Female,38,43,Designer,PhD,Divorced,Rarely,Both,No
+524,60,Male,89,72,Engineer,PhD,Divorced,Daily,In-Store,No
+525,69,Male,94,54,Student,Bachelor,Single,Weekly,Online,Yes
+526,65,Male,41,94,Manager,High School,Divorced,Weekly,Online,No
+527,20,Male,66,20,Doctor,PhD,Divorced,Monthly,Both,No
+528,56,Male,99,31,Lawyer,PhD,Divorced,Rarely,Online,Yes
+529,23,Female,49,18,Designer,High School,Single,Daily,In-Store,No
+530,53,Female,14,51,Doctor,PhD,Single,Daily,In-Store,Yes
+531,21,Female,21,78,Designer,PhD,Divorced,Rarely,Both,Yes
+532,37,Male,53,22,Manager,Bachelor,Divorced,Monthly,Online,Yes
+533,35,Female,44,44,Student,PhD,Married,Daily,In-Store,No
+534,50,Male,41,90,Manager,PhD,Divorced,Monthly,Both,Yes
+535,49,Female,78,87,Doctor,Bachelor,Single,Weekly,Online,No
+536,64,Female,27,90,Doctor,Bachelor,Single,Rarely,In-Store,No
+537,57,Male,46,42,Doctor,Bachelor,Single,Monthly,In-Store,No
+538,38,Male,61,68,Artist,PhD,Divorced,Daily,Online,Yes
+539,29,Female,39,51,Lawyer,PhD,Divorced,Daily,Online,No
+540,51,Male,62,92,Designer,Masters,Divorced,Rarely,In-Store,No
+541,26,Female,83,65,Manager,Masters,Divorced,Rarely,Both,No
+542,53,Female,62,22,Manager,Bachelor,Single,Monthly,Both,Yes
+543,45,Female,36,15,Engineer,PhD,Married,Monthly,Both,Yes
+544,38,Female,54,54,Engineer,High School,Married,Monthly,Both,Yes
+545,46,Male,68,96,Doctor,Masters,Divorced,Weekly,In-Store,No
+546,46,Male,15,97,Artist,PhD,Single,Daily,In-Store,No
+547,32,Female,13,38,Engineer,PhD,Single,Daily,In-Store,No
+548,20,Male,25,80,Designer,Masters,Single,Rarely,In-Store,No
+549,42,Male,65,79,Lawyer,Bachelor,Divorced,Monthly,In-Store,Yes
+550,53,Female,53,47,Engineer,PhD,Divorced,Monthly,In-Store,Yes
+551,69,Male,42,90,Engineer,Masters,Married,Weekly,Both,No
+552,28,Male,58,31,Student,Bachelor,Divorced,Weekly,In-Store,No
+553,37,Female,51,32,Engineer,PhD,Divorced,Monthly,In-Store,Yes
+554,38,Male,38,93,Student,High School,Single,Weekly,Both,Yes
+555,39,Male,78,43,Artist,High School,Divorced,Daily,Online,No
+556,30,Female,11,94,Artist,Bachelor,Divorced,Daily,Online,Yes
+557,56,Male,99,91,Doctor,PhD,Married,Daily,In-Store,Yes
+558,20,Male,57,51,Lawyer,High School,Married,Weekly,Both,Yes
+559,33,Female,41,39,Artist,High School,Divorced,Monthly,Both,Yes
+560,54,Male,28,79,Engineer,Masters,Divorced,Weekly,Online,Yes
+561,20,Male,34,28,Manager,Masters,Married,Daily,In-Store,No
+562,62,Male,18,69,Lawyer,High School,Divorced,Rarely,In-Store,Yes
+563,41,Male,97,47,Manager,Bachelor,Divorced,Weekly,Online,No
+564,43,Male,56,3,Artist,Masters,Divorced,Daily,Online,Yes
+565,58,Male,61,10,Artist,Masters,Divorced,Monthly,In-Store,No
+566,61,Female,66,77,Designer,Bachelor,Single,Weekly,Online,No
+567,24,Male,10,9,Student,High School,Single,Weekly,Both,No
+568,62,Male,58,3,Designer,High School,Married,Rarely,Both,No
+569,26,Female,58,54,Manager,High School,Married,Daily,Online,No
+570,27,Female,31,94,Student,Bachelor,Divorced,Rarely,Both,Yes
+571,19,Male,32,49,Lawyer,High School,Married,Daily,In-Store,No
+572,30,Male,43,18,Manager,Bachelor,Single,Rarely,Both,Yes
+573,24,Male,41,28,Student,PhD,Single,Weekly,Online,No
+574,27,Female,82,23,Artist,Bachelor,Single,Daily,Online,Yes
+575,46,Female,83,70,Student,Bachelor,Single,Daily,Online,No
+576,61,Male,10,16,Student,Bachelor,Single,Rarely,In-Store,Yes
+577,41,Female,44,17,Manager,Masters,Married,Rarely,Both,No
+578,30,Female,57,73,Designer,Bachelor,Single,Rarely,Both,Yes
+579,62,Female,10,67,Student,Masters,Divorced,Daily,Both,Yes
+580,35,Male,45,2,Designer,High School,Married,Daily,Both,Yes
+581,40,Male,98,36,Doctor,PhD,Single,Rarely,Both,No
+582,59,Male,87,68,Student,PhD,Divorced,Monthly,Online,No
+583,45,Female,27,87,Designer,Bachelor,Single,Monthly,In-Store,Yes
+584,66,Male,25,46,Manager,High School,Married,Daily,Both,Yes
+585,59,Male,93,91,Designer,High School,Divorced,Monthly,Online,Yes
+586,60,Male,38,69,Doctor,Bachelor,Married,Daily,Both,Yes
+587,46,Male,45,90,Designer,Bachelor,Single,Monthly,In-Store,Yes
+588,55,Male,54,83,Engineer,Bachelor,Divorced,Monthly,Both,No
+589,18,Male,46,47,Student,Bachelor,Divorced,Monthly,In-Store,Yes
+590,44,Male,84,18,Lawyer,Masters,Married,Weekly,Both,No
+591,18,Male,64,4,Artist,Bachelor,Married,Daily,Both,Yes
+592,58,Male,90,84,Lawyer,Bachelor,Single,Monthly,Both,No
+593,42,Male,38,88,Lawyer,Masters,Single,Rarely,In-Store,No
+594,48,Female,71,94,Designer,PhD,Divorced,Monthly,In-Store,No
+595,52,Female,15,1,Artist,PhD,Single,Rarely,Both,No
+596,66,Male,92,90,Student,PhD,Divorced,Daily,Online,No
+597,61,Female,91,78,Lawyer,Bachelor,Single,Daily,In-Store,Yes
+598,27,Female,64,2,Lawyer,PhD,Married,Monthly,In-Store,No
+599,33,Male,94,71,Engineer,Bachelor,Divorced,Weekly,In-Store,Yes
+600,59,Male,99,85,Engineer,Masters,Divorced,Weekly,In-Store,No
+601,21,Male,96,3,Engineer,High School,Married,Daily,Online,No
+602,62,Male,52,12,Doctor,High School,Married,Monthly,In-Store,No
+603,53,Female,27,92,Engineer,Bachelor,Single,Monthly,Online,No
+604,44,Male,93,16,Designer,Bachelor,Single,Monthly,In-Store,No
+605,40,Male,57,41,Manager,PhD,Divorced,Weekly,Both,Yes
+606,40,Male,45,40,Doctor,Masters,Single,Rarely,Both,No
+607,45,Female,23,98,Doctor,Masters,Single,Daily,Both,No
+608,49,Female,16,47,Lawyer,PhD,Married,Rarely,Online,Yes
+609,32,Female,18,14,Lawyer,Bachelor,Single,Rarely,In-Store,No
+610,29,Male,64,4,Designer,High School,Married,Daily,Both,Yes
+611,25,Male,41,28,Engineer,High School,Married,Monthly,Online,Yes
+612,69,Male,69,47,Artist,PhD,Divorced,Monthly,Online,Yes
+613,60,Male,23,21,Lawyer,Bachelor,Married,Monthly,In-Store,Yes
+614,49,Female,97,22,Manager,PhD,Divorced,Monthly,Both,No
+615,23,Female,22,63,Student,High School,Single,Weekly,In-Store,Yes
+616,19,Male,72,26,Engineer,PhD,Divorced,Rarely,Online,Yes
+617,63,Female,66,76,Engineer,PhD,Single,Weekly,Online,No
+618,28,Female,44,21,Student,Bachelor,Married,Weekly,Online,No
+619,25,Female,40,17,Manager,Bachelor,Divorced,Monthly,In-Store,No
+620,66,Female,14,20,Doctor,Masters,Divorced,Daily,Both,Yes
+621,27,Female,38,31,Doctor,Masters,Divorced,Rarely,In-Store,Yes
+622,42,Female,49,33,Designer,Bachelor,Single,Rarely,Both,No
+623,54,Male,73,66,Student,Bachelor,Married,Daily,Both,Yes
+624,23,Male,58,94,Artist,Bachelor,Married,Weekly,Online,No
+625,67,Male,98,90,Artist,High School,Married,Daily,Both,No
+626,46,Female,45,41,Artist,High School,Divorced,Monthly,In-Store,No
+627,35,Female,50,34,Artist,Bachelor,Single,Rarely,In-Store,No
+628,23,Female,58,32,Manager,High School,Single,Rarely,Online,No
+629,47,Female,12,80,Engineer,Bachelor,Single,Monthly,Both,Yes
+630,69,Female,51,39,Doctor,Bachelor,Married,Weekly,Online,Yes
+631,49,Male,44,64,Doctor,High School,Single,Rarely,Online,Yes
+632,26,Male,71,77,Lawyer,Masters,Divorced,Weekly,Online,Yes
+633,29,Male,81,4,Lawyer,PhD,Married,Daily,Both,No
+634,20,Male,71,72,Student,PhD,Divorced,Daily,Online,Yes
+635,52,Female,18,53,Student,High School,Divorced,Monthly,Online,Yes
+636,65,Male,32,55,Engineer,High School,Divorced,Daily,Both,No
+637,67,Male,71,41,Artist,Masters,Single,Rarely,Both,No
+638,31,Female,47,69,Student,High School,Married,Weekly,In-Store,Yes
+639,36,Female,92,28,Lawyer,Bachelor,Divorced,Rarely,In-Store,Yes
+640,32,Male,15,12,Lawyer,Masters,Divorced,Daily,Online,Yes
+641,27,Female,50,65,Lawyer,PhD,Single,Rarely,Online,No
+642,53,Female,41,79,Engineer,High School,Divorced,Daily,In-Store,Yes
+643,34,Female,19,22,Artist,PhD,Married,Monthly,Both,Yes
+644,23,Female,59,46,Lawyer,Masters,Divorced,Daily,Online,Yes
+645,30,Female,63,5,Engineer,Bachelor,Married,Daily,Online,Yes
+646,35,Female,90,82,Lawyer,High School,Divorced,Daily,In-Store,Yes
+647,49,Male,60,79,Engineer,High School,Single,Rarely,In-Store,No
+648,58,Female,23,36,Artist,Bachelor,Divorced,Weekly,Both,Yes
+649,61,Female,91,83,Artist,PhD,Divorced,Monthly,In-Store,Yes
+650,56,Male,43,50,Artist,Bachelor,Married,Weekly,Online,Yes
+651,54,Male,21,23,Lawyer,High School,Single,Weekly,Both,Yes
+652,25,Male,43,1,Student,Masters,Single,Weekly,Online,Yes
+653,21,Female,51,83,Designer,PhD,Married,Daily,Online,No
+654,20,Male,26,61,Doctor,Masters,Divorced,Monthly,Online,No
+655,18,Male,36,29,Designer,Bachelor,Single,Daily,In-Store,No
+656,51,Male,77,84,Manager,Bachelor,Single,Weekly,In-Store,Yes
+657,36,Female,87,51,Engineer,Masters,Married,Rarely,Online,No
+658,30,Female,11,44,Manager,PhD,Married,Weekly,Both,No
+659,39,Male,32,48,Artist,High School,Married,Weekly,Both,No
+660,54,Female,21,61,Manager,High School,Single,Daily,Both,Yes
+661,41,Female,58,2,Artist,PhD,Single,Rarely,In-Store,No
+662,40,Female,57,26,Engineer,Masters,Divorced,Rarely,In-Store,Yes
+663,43,Female,77,55,Artist,Masters,Single,Weekly,In-Store,No
+664,47,Female,80,36,Doctor,PhD,Married,Weekly,Both,Yes
+665,49,Female,61,39,Designer,High School,Single,Weekly,In-Store,No
+666,23,Male,26,5,Manager,High School,Married,Daily,Both,Yes
+667,66,Male,53,29,Designer,PhD,Single,Weekly,In-Store,Yes
+668,53,Male,57,74,Engineer,Masters,Single,Weekly,Online,No
+669,35,Female,49,55,Student,High School,Single,Monthly,In-Store,Yes
+670,25,Male,58,62,Designer,Bachelor,Divorced,Weekly,Both,Yes
+671,60,Male,59,87,Lawyer,Masters,Married,Daily,Online,No
+672,42,Female,33,67,Artist,Masters,Single,Daily,In-Store,Yes
+673,54,Female,66,41,Designer,High School,Single,Daily,Online,Yes
+674,42,Female,87,67,Doctor,High School,Married,Monthly,Online,Yes
+675,60,Female,24,18,Engineer,PhD,Married,Rarely,In-Store,Yes
+676,64,Male,88,46,Designer,High School,Divorced,Rarely,Both,Yes
+677,26,Female,41,8,Designer,Bachelor,Married,Daily,Both,Yes
+678,53,Male,76,8,Designer,Bachelor,Single,Rarely,Both,Yes
+679,28,Male,25,2,Doctor,PhD,Married,Rarely,In-Store,No
+680,36,Male,25,81,Student,Masters,Divorced,Weekly,In-Store,No
+681,29,Male,62,6,Artist,Bachelor,Married,Rarely,In-Store,No
+682,25,Female,49,2,Artist,Masters,Single,Daily,In-Store,Yes
+683,58,Male,18,80,Designer,Masters,Single,Monthly,Online,Yes
+684,58,Male,27,11,Engineer,High School,Single,Monthly,Both,No
+685,41,Female,86,17,Student,PhD,Married,Daily,Both,No
+686,42,Female,30,73,Designer,High School,Divorced,Monthly,Both,Yes
+687,24,Female,93,34,Lawyer,High School,Divorced,Rarely,In-Store,Yes
+688,48,Male,20,38,Engineer,High School,Single,Weekly,Both,Yes
+689,40,Male,81,53,Doctor,Masters,Married,Daily,Both,No
+690,48,Male,10,87,Artist,PhD,Married,Daily,Both,No
+691,39,Female,17,4,Artist,PhD,Married,Daily,Online,No
+692,39,Male,56,81,Artist,Masters,Married,Weekly,Both,No
+693,59,Female,98,75,Student,Masters,Married,Daily,In-Store,No
+694,34,Female,40,46,Manager,Bachelor,Divorced,Weekly,Both,Yes
+695,60,Male,12,100,Manager,High School,Single,Daily,Both,Yes
+696,49,Male,89,45,Student,PhD,Divorced,Monthly,Online,Yes
+697,29,Male,41,14,Designer,PhD,Married,Monthly,Online,Yes
+698,55,Male,43,79,Student,Bachelor,Married,Weekly,Both,Yes
+699,21,Male,83,70,Manager,Bachelor,Divorced,Daily,In-Store,Yes
+700,43,Female,98,1,Engineer,High School,Divorced,Rarely,Online,No
+701,35,Male,39,15,Student,Bachelor,Divorced,Rarely,Online,Yes
+702,25,Male,49,18,Student,Masters,Divorced,Rarely,In-Store,Yes
+703,57,Female,83,47,Doctor,Bachelor,Single,Rarely,In-Store,No
+704,48,Female,22,37,Doctor,PhD,Divorced,Daily,Online,No
+705,51,Male,80,88,Engineer,PhD,Married,Daily,In-Store,Yes
+706,53,Male,92,40,Designer,High School,Single,Daily,Online,No
+707,55,Male,40,5,Manager,PhD,Single,Rarely,Both,No
+708,27,Female,62,24,Artist,Bachelor,Married,Rarely,Online,Yes
+709,64,Female,34,58,Student,High School,Divorced,Rarely,Online,Yes
+710,23,Female,33,50,Doctor,High School,Married,Monthly,Both,No
+711,27,Female,28,75,Lawyer,High School,Divorced,Weekly,Online,Yes
+712,62,Female,31,92,Lawyer,High School,Single,Rarely,Both,No
+713,64,Male,73,23,Artist,Masters,Divorced,Monthly,Both,Yes
+714,57,Female,75,21,Engineer,Masters,Married,Daily,Both,Yes
+715,45,Female,72,99,Engineer,Masters,Divorced,Rarely,Online,Yes
+716,64,Male,94,81,Designer,Bachelor,Divorced,Daily,In-Store,Yes
+717,63,Female,22,91,Manager,Bachelor,Married,Weekly,Both,Yes
+718,36,Male,30,3,Lawyer,Masters,Divorced,Weekly,Both,No
+719,63,Female,98,37,Student,Bachelor,Married,Monthly,Both,No
+720,41,Male,74,63,Manager,High School,Single,Weekly,In-Store,No
+721,51,Female,45,91,Student,Bachelor,Divorced,Daily,Online,No
+722,32,Female,95,78,Engineer,Masters,Divorced,Rarely,Online,No
+723,48,Female,74,51,Manager,Masters,Divorced,Monthly,Online,Yes
+724,69,Male,61,85,Manager,High School,Married,Rarely,Online,Yes
+725,61,Female,72,59,Engineer,Masters,Single,Weekly,In-Store,No
+726,40,Female,39,58,Artist,PhD,Married,Monthly,Online,Yes
+727,30,Female,51,48,Artist,Masters,Single,Daily,Online,No
+728,26,Male,90,25,Designer,Bachelor,Married,Daily,In-Store,Yes
+729,50,Female,85,87,Designer,Masters,Divorced,Daily,In-Store,No
+730,30,Male,75,77,Engineer,High School,Single,Daily,In-Store,No
+731,50,Female,69,81,Doctor,PhD,Married,Daily,In-Store,Yes
+732,42,Female,11,10,Manager,Bachelor,Married,Monthly,Online,No
+733,19,Female,81,79,Artist,PhD,Single,Daily,Both,Yes
+734,27,Male,69,2,Manager,High School,Divorced,Weekly,Both,No
+735,32,Female,28,97,Artist,PhD,Divorced,Weekly,In-Store,Yes
+736,60,Female,35,96,Designer,Masters,Married,Monthly,Both,Yes
+737,60,Male,67,63,Manager,Masters,Divorced,Rarely,Online,Yes
+738,43,Male,37,70,Engineer,Bachelor,Single,Monthly,Both,No
+739,29,Male,64,6,Engineer,PhD,Single,Rarely,In-Store,No
+740,66,Female,52,88,Engineer,Masters,Divorced,Monthly,Both,Yes
+741,63,Female,85,34,Engineer,Masters,Divorced,Daily,In-Store,Yes
+742,26,Female,67,22,Doctor,PhD,Married,Weekly,Online,Yes
+743,46,Female,75,72,Artist,High School,Divorced,Rarely,In-Store,Yes
+744,41,Female,96,38,Designer,Masters,Divorced,Daily,In-Store,No
+745,41,Male,93,78,Manager,Masters,Divorced,Weekly,Both,No
+746,44,Female,65,49,Student,Masters,Married,Daily,Both,No
+747,24,Female,82,91,Manager,PhD,Married,Daily,Both,No
+748,44,Male,13,92,Engineer,PhD,Married,Daily,Online,Yes
+749,28,Female,97,82,Lawyer,Bachelor,Single,Weekly,In-Store,No
+750,61,Female,28,91,Doctor,Bachelor,Divorced,Daily,Both,Yes
+751,62,Female,30,74,Manager,High School,Married,Weekly,Both,No
+752,27,Male,38,37,Doctor,Masters,Divorced,Monthly,Both,No
+753,45,Male,89,81,Student,Masters,Divorced,Daily,Online,Yes
+754,53,Male,22,48,Artist,PhD,Single,Monthly,Both,No
+755,47,Male,66,44,Student,PhD,Married,Daily,Both,Yes
+756,67,Male,23,43,Student,High School,Married,Weekly,Online,No
+757,63,Female,66,35,Engineer,Masters,Single,Monthly,Online,Yes
+758,39,Female,59,74,Lawyer,High School,Single,Daily,Online,No
+759,68,Male,51,28,Designer,Bachelor,Married,Monthly,Both,No
+760,56,Male,97,64,Engineer,Bachelor,Divorced,Monthly,Online,No
+761,46,Male,60,21,Student,PhD,Single,Daily,Both,No
+762,45,Female,95,81,Doctor,High School,Single,Weekly,Online,Yes
+763,42,Female,99,83,Student,PhD,Single,Rarely,Both,No
+764,69,Male,31,18,Artist,Masters,Divorced,Weekly,Online,Yes
+765,69,Female,35,76,Artist,High School,Divorced,Weekly,Both,No
+766,19,Male,81,49,Manager,PhD,Single,Daily,In-Store,Yes
+767,42,Female,60,5,Doctor,Masters,Single,Monthly,Online,No
+768,47,Male,18,27,Doctor,Masters,Married,Weekly,Online,No
+769,55,Male,24,4,Designer,Masters,Single,Daily,Both,No
+770,19,Female,93,71,Doctor,Bachelor,Married,Rarely,In-Store,Yes
+771,59,Female,42,94,Artist,Masters,Married,Monthly,Online,No
+772,52,Male,39,61,Lawyer,Masters,Single,Weekly,Both,No
+773,61,Female,64,44,Artist,Bachelor,Divorced,Daily,Online,Yes
+774,24,Female,33,100,Lawyer,High School,Divorced,Daily,Online,No
+775,41,Female,18,11,Manager,High School,Single,Weekly,Both,No
+776,46,Male,85,65,Doctor,PhD,Divorced,Daily,Online,No
+777,48,Male,60,30,Manager,High School,Divorced,Rarely,In-Store,No
+778,19,Female,75,1,Lawyer,High School,Single,Rarely,Both,Yes
+779,67,Female,65,79,Manager,Bachelor,Divorced,Rarely,In-Store,No
+780,52,Female,30,44,Engineer,PhD,Divorced,Weekly,In-Store,No
+781,68,Female,99,81,Manager,Bachelor,Divorced,Rarely,Online,No
+782,58,Male,61,29,Artist,Bachelor,Single,Weekly,Online,Yes
+783,24,Male,78,64,Manager,Bachelor,Divorced,Daily,Both,Yes
+784,30,Male,40,48,Manager,High School,Single,Rarely,Online,Yes
+785,33,Female,91,8,Lawyer,PhD,Divorced,Weekly,Both,No
+786,31,Female,58,11,Lawyer,Bachelor,Married,Monthly,Online,No
+787,28,Female,17,36,Designer,PhD,Married,Monthly,Online,No
+788,21,Male,14,3,Lawyer,Bachelor,Divorced,Monthly,In-Store,No
+789,52,Female,99,19,Doctor,PhD,Married,Weekly,In-Store,No
+790,19,Male,34,93,Lawyer,Bachelor,Married,Daily,Both,Yes
+791,59,Male,12,61,Student,Bachelor,Single,Daily,Both,No
+792,37,Female,28,70,Student,High School,Married,Monthly,Online,Yes
+793,30,Female,31,84,Designer,PhD,Married,Monthly,Online,Yes
+794,66,Male,12,80,Student,Masters,Single,Monthly,In-Store,No
+795,61,Male,97,65,Manager,Bachelor,Divorced,Weekly,In-Store,No
+796,19,Female,22,82,Designer,Masters,Divorced,Rarely,Online,Yes
+797,25,Male,10,29,Lawyer,PhD,Single,Weekly,In-Store,No
+798,46,Male,28,19,Lawyer,Masters,Single,Daily,Both,No
+799,47,Male,58,63,Doctor,Masters,Single,Weekly,Online,Yes
+800,26,Female,92,94,Manager,Bachelor,Single,Weekly,Both,No
+801,23,Male,83,22,Engineer,High School,Divorced,Daily,Both,Yes
+802,19,Male,70,94,Designer,Masters,Divorced,Weekly,Online,No
+803,54,Male,24,28,Doctor,PhD,Divorced,Daily,In-Store,No
+804,45,Female,95,84,Student,PhD,Divorced,Monthly,Both,No
+805,32,Female,18,48,Designer,PhD,Single,Daily,Online,Yes
+806,22,Female,63,77,Doctor,High School,Single,Monthly,In-Store,Yes
+807,54,Female,70,31,Lawyer,High School,Married,Weekly,Online,No
+808,42,Male,81,23,Artist,High School,Married,Rarely,In-Store,No
+809,45,Female,79,36,Engineer,Bachelor,Single,Rarely,In-Store,Yes
+810,30,Female,88,38,Doctor,Bachelor,Single,Rarely,Both,No
+811,33,Female,61,94,Artist,Masters,Married,Monthly,Online,No
+812,67,Male,59,96,Student,Bachelor,Married,Daily,Both,Yes
+813,29,Male,84,20,Manager,Masters,Single,Weekly,Online,No
+814,33,Female,36,8,Lawyer,Bachelor,Divorced,Monthly,Both,Yes
+815,30,Male,26,82,Engineer,PhD,Married,Monthly,Online,Yes
+816,66,Male,65,88,Engineer,Masters,Divorced,Weekly,Both,No
+817,54,Female,63,92,Designer,Masters,Married,Monthly,Both,Yes
+818,37,Male,32,31,Designer,PhD,Divorced,Rarely,Both,No
+819,18,Male,90,38,Designer,Masters,Single,Monthly,Online,Yes
+820,26,Male,43,42,Engineer,High School,Single,Monthly,Online,Yes
+821,58,Male,54,3,Manager,PhD,Single,Daily,Both,No
+822,54,Male,24,13,Lawyer,High School,Single,Monthly,Online,Yes
+823,55,Female,27,83,Manager,High School,Married,Rarely,Online,Yes
+824,37,Female,13,2,Manager,High School,Divorced,Monthly,Online,No
+825,29,Female,16,29,Manager,Masters,Divorced,Daily,In-Store,Yes
+826,61,Female,40,42,Student,PhD,Married,Rarely,In-Store,No
+827,64,Male,86,68,Manager,Bachelor,Single,Rarely,Online,Yes
+828,51,Female,94,37,Engineer,Bachelor,Divorced,Rarely,In-Store,Yes
+829,35,Female,37,62,Artist,High School,Divorced,Weekly,Both,Yes
+830,36,Female,30,35,Lawyer,Masters,Married,Daily,In-Store,Yes
+831,53,Male,97,95,Doctor,PhD,Married,Weekly,In-Store,Yes
+832,51,Male,12,97,Doctor,High School,Divorced,Daily,Both,No
+833,67,Male,78,26,Artist,Masters,Single,Weekly,Online,No
+834,30,Male,59,73,Engineer,High School,Divorced,Weekly,Online,No
+835,19,Male,44,9,Student,Bachelor,Single,Monthly,Both,Yes
+836,19,Female,55,17,Student,High School,Married,Monthly,Online,No
+837,55,Female,93,74,Artist,Bachelor,Married,Monthly,In-Store,No
+838,57,Male,54,31,Designer,PhD,Single,Monthly,Both,Yes
+839,67,Male,90,27,Designer,PhD,Married,Daily,Online,No
+840,51,Male,54,31,Artist,High School,Divorced,Monthly,Both,Yes
+841,28,Female,49,60,Student,High School,Single,Rarely,Online,No
+842,43,Female,16,84,Designer,Masters,Married,Monthly,In-Store,Yes
+843,55,Male,58,76,Artist,High School,Married,Weekly,In-Store,No
+844,43,Female,69,86,Engineer,High School,Married,Rarely,In-Store,No
+845,61,Female,40,60,Student,Bachelor,Divorced,Weekly,Both,No
+846,49,Female,73,53,Artist,Masters,Divorced,Rarely,Both,Yes
+847,67,Female,33,99,Lawyer,Masters,Divorced,Weekly,Online,No
+848,40,Female,97,43,Student,High School,Single,Rarely,Online,Yes
+849,41,Female,64,71,Student,Bachelor,Married,Daily,Both,Yes
+850,57,Male,68,94,Manager,Bachelor,Married,Monthly,Both,Yes
+851,47,Female,81,13,Doctor,Masters,Divorced,Monthly,In-Store,No
+852,30,Male,76,42,Artist,High School,Married,Rarely,In-Store,Yes
+853,45,Male,93,9,Doctor,PhD,Single,Weekly,In-Store,No
+854,37,Male,66,42,Artist,PhD,Single,Monthly,Online,No
+855,50,Female,45,21,Designer,High School,Married,Weekly,Both,Yes
+856,39,Female,29,63,Engineer,PhD,Married,Weekly,Online,Yes
+857,58,Female,56,18,Doctor,Bachelor,Divorced,Rarely,Online,Yes
+858,25,Male,74,37,Engineer,Masters,Divorced,Rarely,Both,No
+859,25,Male,78,21,Lawyer,Masters,Divorced,Weekly,Both,No
+860,27,Female,40,5,Doctor,PhD,Divorced,Weekly,Both,No
+861,69,Female,23,83,Doctor,Masters,Divorced,Daily,Online,No
+862,43,Male,80,46,Designer,Masters,Married,Monthly,Online,Yes
+863,47,Male,67,81,Engineer,PhD,Single,Daily,Both,No
+864,52,Male,36,99,Designer,High School,Married,Weekly,Online,Yes
+865,63,Male,52,43,Artist,Bachelor,Single,Weekly,Both,No
+866,20,Female,69,83,Lawyer,High School,Married,Rarely,Both,Yes
+867,32,Female,46,99,Designer,PhD,Single,Monthly,Both,Yes
+868,60,Male,87,92,Doctor,Bachelor,Married,Daily,Both,Yes
+869,37,Female,26,10,Artist,PhD,Married,Weekly,Both,Yes
+870,32,Male,44,47,Engineer,High School,Divorced,Monthly,Online,Yes
+871,36,Female,90,93,Artist,PhD,Divorced,Monthly,Both,Yes
+872,46,Male,83,37,Artist,High School,Married,Daily,Online,Yes
+873,33,Male,76,99,Doctor,High School,Married,Weekly,In-Store,Yes
+874,20,Male,80,14,Student,High School,Married,Monthly,Online,No
+875,31,Male,70,10,Doctor,Masters,Single,Rarely,Online,No
+876,56,Female,73,30,Lawyer,Masters,Divorced,Monthly,Online,No
+877,51,Male,71,10,Engineer,Bachelor,Divorced,Daily,In-Store,Yes
+878,26,Male,26,12,Designer,PhD,Married,Weekly,Online,Yes
+879,49,Female,18,55,Artist,PhD,Divorced,Rarely,In-Store,Yes
+880,38,Male,45,21,Artist,PhD,Married,Rarely,Online,No
+881,18,Male,68,20,Designer,PhD,Married,Daily,Online,Yes
+882,30,Male,47,20,Student,PhD,Married,Daily,In-Store,Yes
+883,69,Female,96,47,Engineer,PhD,Divorced,Weekly,In-Store,Yes
+884,25,Male,12,40,Doctor,Masters,Married,Daily,In-Store,Yes
+885,26,Male,17,34,Artist,High School,Single,Rarely,In-Store,Yes
+886,46,Female,53,58,Student,PhD,Single,Weekly,Online,Yes
+887,39,Female,35,67,Artist,PhD,Married,Rarely,Both,No
+888,46,Female,30,92,Designer,Bachelor,Married,Monthly,Online,No
+889,18,Male,22,5,Manager,Bachelor,Single,Rarely,Both,Yes
+890,34,Male,44,48,Designer,Masters,Divorced,Rarely,In-Store,No
+891,21,Female,95,61,Designer,High School,Married,Monthly,Both,Yes
+892,42,Female,65,51,Manager,Masters,Single,Daily,In-Store,Yes
+893,62,Male,29,100,Lawyer,High School,Divorced,Daily,Online,Yes
+894,18,Male,67,1,Student,High School,Divorced,Rarely,Both,Yes
+895,68,Female,26,32,Student,High School,Married,Rarely,In-Store,Yes
+896,50,Male,93,7,Designer,PhD,Single,Weekly,In-Store,No
+897,62,Male,33,18,Student,High School,Married,Daily,Online,Yes
+898,50,Female,17,12,Artist,PhD,Married,Daily,Online,Yes
+899,69,Female,78,57,Artist,Masters,Married,Monthly,In-Store,No
+900,26,Female,32,39,Doctor,High School,Single,Monthly,Online,No
+901,48,Female,56,47,Engineer,Bachelor,Married,Rarely,Both,No
+902,66,Female,24,74,Artist,PhD,Divorced,Rarely,In-Store,No
+903,64,Male,87,70,Designer,PhD,Married,Rarely,In-Store,Yes
+904,21,Male,58,72,Artist,Bachelor,Single,Daily,Both,Yes
+905,43,Male,37,19,Engineer,High School,Single,Weekly,Online,No
+906,51,Male,52,26,Manager,High School,Divorced,Rarely,In-Store,No
+907,38,Male,56,41,Engineer,PhD,Single,Weekly,Both,No
+908,29,Female,72,100,Student,PhD,Divorced,Weekly,Both,No
+909,62,Male,91,1,Engineer,PhD,Divorced,Daily,Online,Yes
+910,28,Female,82,80,Designer,High School,Single,Daily,Online,Yes
+911,26,Male,28,37,Designer,PhD,Single,Rarely,In-Store,Yes
+912,37,Male,21,4,Lawyer,High School,Divorced,Daily,Both,No
+913,47,Male,89,43,Manager,PhD,Married,Weekly,In-Store,Yes
+914,19,Female,94,47,Doctor,Bachelor,Divorced,Monthly,Online,No
+915,45,Male,56,6,Manager,Bachelor,Single,Daily,Both,No
+916,36,Male,29,16,Engineer,PhD,Single,Monthly,Both,Yes
+917,57,Female,51,90,Engineer,PhD,Single,Monthly,Online,No
+918,31,Female,27,1,Student,Bachelor,Single,Weekly,In-Store,No
+919,67,Female,57,17,Designer,Bachelor,Married,Rarely,Both,Yes
+920,21,Male,15,39,Student,Bachelor,Divorced,Daily,Both,No
+921,43,Female,41,60,Lawyer,PhD,Divorced,Rarely,Online,Yes
+922,38,Female,41,48,Artist,PhD,Divorced,Rarely,Both,Yes
+923,49,Female,91,74,Artist,Masters,Divorced,Rarely,In-Store,No
+924,22,Male,98,28,Doctor,PhD,Single,Daily,In-Store,No
+925,46,Male,93,21,Manager,Bachelor,Divorced,Daily,Both,Yes
+926,28,Female,27,83,Doctor,Masters,Single,Daily,In-Store,Yes
+927,47,Male,25,67,Doctor,Bachelor,Single,Daily,Online,No
+928,29,Male,46,58,Lawyer,PhD,Divorced,Monthly,Online,Yes
+929,59,Male,77,39,Manager,Bachelor,Single,Daily,Both,No
+930,50,Male,36,50,Doctor,Masters,Divorced,Daily,Both,Yes
+931,57,Female,12,28,Engineer,Bachelor,Single,Monthly,In-Store,Yes
+932,66,Female,68,88,Designer,Bachelor,Single,Rarely,Online,Yes
+933,22,Female,38,57,Doctor,High School,Single,Rarely,Online,Yes
+934,61,Female,22,20,Designer,Masters,Married,Rarely,Both,No
+935,43,Male,32,69,Engineer,High School,Single,Weekly,In-Store,No
+936,44,Female,25,12,Student,Bachelor,Divorced,Rarely,Both,Yes
+937,43,Female,74,68,Lawyer,Bachelor,Divorced,Rarely,Both,Yes
+938,32,Male,55,51,Student,Bachelor,Married,Weekly,In-Store,No
+939,49,Female,28,42,Manager,Bachelor,Married,Weekly,Both,No
+940,53,Female,31,84,Artist,Bachelor,Single,Rarely,Online,Yes
+941,36,Female,51,34,Doctor,Masters,Single,Rarely,Both,Yes
+942,39,Female,39,88,Doctor,High School,Single,Monthly,Both,No
+943,55,Male,19,82,Doctor,Bachelor,Married,Daily,In-Store,Yes
+944,51,Female,88,98,Designer,Masters,Divorced,Daily,Online,Yes
+945,33,Male,43,76,Designer,Bachelor,Single,Monthly,In-Store,Yes
+946,34,Female,84,97,Manager,PhD,Single,Daily,In-Store,Yes
+947,54,Female,52,1,Student,Bachelor,Divorced,Rarely,In-Store,No
+948,31,Female,12,47,Manager,Bachelor,Single,Monthly,Online,Yes
+949,61,Male,15,99,Manager,PhD,Single,Monthly,In-Store,Yes
+950,65,Male,15,64,Doctor,Masters,Divorced,Monthly,Both,Yes
+951,67,Male,28,52,Designer,PhD,Divorced,Monthly,Online,Yes
+952,64,Male,36,71,Lawyer,PhD,Married,Weekly,In-Store,No
+953,54,Female,75,100,Artist,Bachelor,Single,Rarely,In-Store,Yes
+954,67,Male,54,64,Student,Bachelor,Divorced,Daily,Both,Yes
+955,59,Female,60,21,Doctor,PhD,Single,Monthly,Online,Yes
+956,66,Male,59,44,Lawyer,Masters,Divorced,Rarely,Online,No
+957,38,Female,69,6,Engineer,Bachelor,Single,Monthly,Both,No
+958,58,Male,37,85,Artist,Bachelor,Single,Rarely,Both,Yes
+959,44,Male,69,58,Student,PhD,Married,Rarely,Online,Yes
+960,69,Female,74,47,Manager,High School,Divorced,Weekly,Online,No
+961,51,Female,78,48,Doctor,PhD,Married,Daily,In-Store,Yes
+962,43,Female,30,76,Engineer,Bachelor,Married,Rarely,In-Store,Yes
+963,68,Male,63,34,Designer,Bachelor,Single,Daily,In-Store,Yes
+964,37,Female,80,2,Student,High School,Single,Daily,In-Store,No
+965,63,Female,50,36,Student,Masters,Married,Weekly,Online,Yes
+966,42,Female,67,66,Lawyer,Bachelor,Single,Rarely,In-Store,No
+967,43,Female,91,49,Designer,PhD,Single,Monthly,In-Store,No
+968,37,Female,22,34,Student,Masters,Single,Monthly,In-Store,Yes
+969,58,Female,54,70,Designer,High School,Single,Rarely,In-Store,No
+970,53,Male,42,55,Engineer,High School,Divorced,Daily,In-Store,No
+971,29,Female,67,1,Manager,Bachelor,Married,Monthly,Online,No
+972,30,Male,20,13,Student,Bachelor,Divorced,Daily,Both,Yes
+973,55,Female,22,33,Lawyer,Masters,Married,Daily,Both,Yes
+974,43,Female,20,22,Student,High School,Single,Daily,Online,Yes
+975,44,Male,90,21,Student,High School,Single,Monthly,In-Store,No
+976,46,Male,22,64,Doctor,PhD,Divorced,Rarely,Online,Yes
+977,65,Male,18,85,Lawyer,PhD,Single,Monthly,In-Store,No
+978,53,Male,76,42,Designer,High School,Married,Rarely,In-Store,No
+979,62,Male,41,10,Lawyer,PhD,Single,Weekly,Online,Yes
+980,63,Male,90,98,Designer,PhD,Divorced,Rarely,Both,Yes
+981,61,Female,34,28,Doctor,PhD,Married,Monthly,Both,No
+982,19,Male,36,47,Lawyer,High School,Married,Rarely,In-Store,No
+983,38,Female,41,20,Doctor,High School,Married,Rarely,In-Store,Yes
+984,50,Male,99,17,Artist,High School,Single,Weekly,In-Store,No
+985,48,Female,42,18,Doctor,PhD,Married,Monthly,In-Store,No
+986,39,Female,12,90,Student,High School,Married,Weekly,In-Store,Yes
+987,62,Female,28,44,Engineer,High School,Single,Monthly,Online,Yes
+988,37,Male,36,29,Artist,High School,Divorced,Daily,Online,Yes
+989,44,Male,61,25,Lawyer,Masters,Married,Weekly,Both,Yes
+990,46,Male,68,32,Designer,PhD,Single,Rarely,Online,No
+991,59,Female,28,90,Manager,Bachelor,Divorced,Weekly,Online,No
+992,24,Female,57,91,Student,High School,Single,Rarely,In-Store,Yes
+993,28,Male,31,31,Designer,PhD,Married,Monthly,In-Store,No
+994,42,Male,14,58,Manager,PhD,Single,Daily,Both,No
+995,69,Female,44,75,Doctor,Bachelor,Single,Monthly,Both,No
+996,35,Female,21,40,Student,PhD,Divorced,Daily,Both,No
+997,53,Female,91,36,Lawyer,PhD,Single,Rarely,Both,No
+998,66,Female,89,43,Lawyer,Masters,Single,Weekly,In-Store,No
+999,41,Male,23,100,Artist,Masters,Divorced,Weekly,Both,Yes
+1000,52,Male,40,86,Lawyer,Bachelor,Married,Weekly,Both,No
